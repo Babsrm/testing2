@@ -6,7 +6,7 @@ import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-class ComercialTest {
+public class ComercialTest {
 
 	@BeforeEach
 	void setUp() throws Exception {
